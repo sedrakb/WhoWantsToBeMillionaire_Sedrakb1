@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Bichoy Sedrak - CSIT551 Mobile Computing Summer 2022-->
+<!-- Who Wants to Be a Millionaire Game-->
+<!-- Splash Screen -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundsplash"
+    android:contentDescription="@string/splash">
+
+    <!-- constraint view to hold all views -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/background">
+
+        <!-- the app logo -->
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="369dp"
+            android:layout_height="392dp"
+            android:layout_marginTop="240dp"
+            android:contentDescription="@string/logo"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/logo2" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</ScrollView>
+
+    <!-- End by Bichoy Sedrak -->

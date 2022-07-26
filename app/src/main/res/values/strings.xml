@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WhoWantsToBeMillionaire_Sedrakb1</string>
+    <string name="splash">splash</string>
+    <string name="background">background</string>
+    <string name="logo">logo</string>
+    <string name="windialog">WinDialog</string>
+    <string name="your_lost">Your Lost!</string>
+    <string name="reset">Reset</string>
+    <string name="message">Message</string>
+    <string name="you_won">You Won</string>
+    <string name="todo">TODO</string>
+    <string name="you_lost">You Lost</string>
+    <string name="image">image</string>
+    <string name="_0">$0</string>
+    <string name="questions">Questions</string>
+    <string name="option_a">Option A</string>
+    <string name="option_b">Option B</string>
+    <string name="option_c">Option C</string>
+    <string name="option_d">Option D</string>
+    <string name="created_by_nbichoy_sedrak_nsedrakb1_montclair_edu">Created by: \nBichoy Sedrak \nsedrakb1@montclair.edu</string>
+</resources>
